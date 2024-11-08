@@ -2,3 +2,4 @@
 .idea
 /ml-latest-small
 *ipynb
+/tests
